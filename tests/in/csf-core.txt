@@ -1,0 +1,2 @@
+DE.AE-03|DE.AE-3|Information is correlated from multiple sources
+RS.MI-02|RS.MI-2|Incidents are eradicated

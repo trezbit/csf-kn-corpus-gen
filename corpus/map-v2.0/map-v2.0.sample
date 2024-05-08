@@ -1,0 +1,29 @@
+The CIS Controls v8.0, developed by the Center for Internet Security, represent a prioritized set of best practices designed to help organizations protect against the most prevalent cyber threats. Control 1.1, in particular, focuses on the Management of Information Systems or Assets. The core concepts of this control include several specific examples, along with applicable policies and procedures that organizations should implement to enhance their cybersecurity posture. Additionally, its relevance and potential overlaps with the NIST Cybersecurity Framework (CSF) versions 1.1 and the anticipated elements from version 2.0 will be highlighted.
+
+### Key Concepts of CIS Controls v8.0 Control 1.1:
+
+1. **Inventory of Authorized and Unauthorized Devices**: Control 1.1 emphasizes the need for organizations to actively manage all hardware devices on the network so that only authorized devices are given access and unauthorized devices are found and prevented from gaining access.
+
+2. **Asset Management**: It extends to having a comprehensive asset management system that includes categorization and classification of assets. This is crucial for understanding the risk exposure and for ensuring that security controls are applied consistently and effectively across all assets.
+
+3. **Active Discovery**: Regularly scanning the network for unmanaged or unauthorized devices ensures that new or rogue devices are quickly found and assessed.
+
+4. **Policy and Procedure Management**: Establishing cybersecurity policies that define the requirements for managing hardware assets, along with procedures on how to implement these policies, is vital. This includes acquisition, deployment, maintenance, and decommissioning of devices.
+
+### Applicable Policies and Procedures:
+
+- **Asset Classification Policy**: Policies for categorizing assets based on criticality and sensitivity, which help in tailoring security controls appropriately.
+- **Device Control Policy**: Establish who can approve the addition of devices to the network, under what conditions a device should be allowed, and the protocols for connecting devices.
+- **Unauthorized Device Response Procedures**: Define steps to be taken when an unauthorized device is detected, including containment, investigation, and remediation actions.
+- **Regular Asset Audits**: Procedures for conducting periodic audits to ensure the asset inventory is accurate and up to date.
+
+### Overlaps with NIST CSF:
+
+The NIST Cybersecurity Framework (CSF) is organized around five core functions: Identify, Protect, Detect, Respond, and Recover. The principles outlined in CIS Controls v8.0 Control 1.1 closely align with several aspects of the NIST CSF, particularly within the Identify and Protect functions.
+
+- **NIST CSF 1.1 & 2.0 (Expected) "Identify"**: The Inventory and Control of Hardware Assets (ID.AM-1) from the CSF aligns with Control 1.1, focusing on the importance of identifying and managing assets. The Asset Management category of NIST directly corresponds to the notion of establishing an asset inventory that is actively managed.
+- **NIST CSF "Protect"**: Control aspects that dictate the protection mechanisms for managing authorized access and ensuring only approved devices can connect overlap with the Access Control (PR.AC) and Information Protection Processes and Procedures (PR.IP) categories of the CSF.
+
+### Conclusion:
+
+CIS Control 1.1 and NIST CSF both emphasize the fundamental importance of asset management as a cornerstone of cybersecurity. By understanding and implementing these controls, organizations can significantly enhance their ability to protect against and respond to cyber threats. The synergy between CIS Controls and NIST CSF allows for a comprehensive approach to cybersecurity, enabling organizations to leverage the strengths of both frameworks to develop a robust security posture. As NIST CSF evolves with newer versions, it's anticipated that it will continue to offer detailed guidance that complements and expands on the principles outlined in CIS Controls, including Control 1.1.

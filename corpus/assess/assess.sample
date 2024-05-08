@@ -1,0 +1,44 @@
+The National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) provides guidelines to help organizations better understand and improve their management of cybersecurity risk. Control DE.AE-02 falls under the Detect (DE) Category, specifically within the Anomalies and Events (AE) subcategory. For version 2.0 of the NIST CSF, it's important to note that while my information is up to the beginning of 2023, organizations should reference the most current version of the framework for the most accurate information.
+
+DE.AE-02 focuses on the detection of cybersecurity events and anomalous activities in a timely manner. Questions aimed at assessing compliance with this control could include:
+
+1. **Detection Capability:**
+   - Can you describe the process and tools used to detect anomalies and events in your network?
+   - How do you ensure that your detection capabilities are effective in identifying potential cybersecurity events?
+
+2. **Alerting Mechanisms:**
+   - How are detected events and anomalies communicated to the appropriate personnel?
+   - What is the process for escalating alerts that may indicate a potential cybersecurity incident?
+
+3. **Timeline for Detection:**
+   - What is the average time from the occurrence of an anomalous event to its detection?
+   - What measures have been put in place to reduce detection time for cybersecurity events?
+
+4. **Incident Examples:**
+   - Can you provide examples of previous anomalies or events that were detected by your systems?
+   - How were these incidents handled, and what was learned from them?
+
+5. **Continuous Improvement:**
+   - What processes are in place for regularly reviewing and improving the detection capabilities?
+   - How are new threats incorporated into the detection strategy?
+
+6. **Training and Awareness:**
+   - How are staff trained to recognize and report potential cybersecurity events?
+   - Is there an ongoing cybersecurity awareness program that includes information on the latest detection tools and techniques?
+
+7. **Integration and Automation:**
+   - How is the detection of anomalies and events integrated with other cybersecurity controls and processes within the organization?
+   - Are there any automation tools in use to help in the detection and prioritization of events?
+
+8. **Compliance and Reporting:**
+   - How do you ensure compliance with relevant regulations and standards in your detection processes?
+   - What documentation and reporting mechanisms are in place for detected events?
+
+9. **Testing and Evaluation:**
+   - How often do you test your detection capabilities to ensure they are functioning correctly?
+   - What methods are used to test the detection of anomalies and events?
+
+10. **Feedback Loop:**
+    - Is there a feedback mechanism in place to learn from detected events and improve processes?
+
+These questions are meant to guide an organization in evaluating their compliance with control DE.AE-02 of the NIST CSF version 2.0. Depending on the specific context and requirements of an organization, additional questions may be necessary.

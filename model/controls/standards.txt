@@ -1,0 +1,15 @@
+NIST CSF version 1.1|primary
+NIST CSF version 2.0|map
+62443-2-1:2009|map
+CIS CSC|map
+COBIT 5|map
+ISA 62443-2-1:2009|map
+ISA 62443-3-3:2013|map
+ISA 62443-3-3:2013 SR|map
+ISO/IEC 27001:2013|map
+NIST SP 800-53 Rev. 4|map
+CIS Controls v8.0|map
+CRI Profile v2.0|map
+SP 800-221A|map
+SP 800-53 Rev 5.1.1|map
+SSDF v1.1|map

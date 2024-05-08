@@ -1,0 +1,155 @@
+DE.AE-03|DE.AE-3|Information is correlated from multiple sources
+DE.AE-04|DE.AE-4|The estimated impact and scope of adverse events are understood
+DE.AE-06|DE.DP-4|Information on adverse events is provided to authorized staff and tools
+DE.AE-07|DE.AE-3|Cyber threat intelligence and other contextual information are integrated into the analysis
+DE.AE-08|DE.AE-5|Incidents are declared when adverse events meet the defined incident criteria
+DE.CM-01|DE.CM-1|Networks and network services are monitored to find potentially adverse events
+DE.CM-01|DE.CM-4|Networks and network services are monitored to find potentially adverse events
+DE.CM-01|DE.CM-5|Networks and network services are monitored to find potentially adverse events
+DE.CM-01|DE.CM-7|Networks and network services are monitored to find potentially adverse events
+DE.CM-02|DE.CM-2|The physical environment is monitored to find potentially adverse events
+DE.CM-03|DE.CM-3|Personnel activity and technology usage are monitored to find potentially adverse events
+DE.CM-03|DE.CM-7|Personnel activity and technology usage are monitored to find potentially adverse events
+DE.CM-06|DE.CM-6|External service provider activities and services are monitored to find potentially adverse events
+DE.CM-06|DE.CM-7|External service provider activities and services are monitored to find potentially adverse events
+DE.CM-09|PR.DS-6|Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events
+DE.CM-09|PR.DS-8|Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events
+DE.CM-09|DE.CM-4|Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events
+DE.CM-09|DE.CM-5|Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events
+DE.CM-09|DE.CM-7|Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events
+GV.OC-01|ID.BE-2|The organizational mission is understood and informs cybersecurity risk management
+GV.OC-01|ID.BE-3|The organizational mission is understood and informs cybersecurity risk management
+GV.OC-02|ID.SC-2|Internal and external stakeholders are understood, and their needs and expectations regarding cybersecurity risk management are understood and considered
+GV.OC-02|ID.GV-2|Internal and external stakeholders are understood, and their needs and expectations regarding cybersecurity risk management are understood and considered
+GV.OC-03|ID.GV-3|Legal, regulatory, and contractual requirements regarding cybersecurity - including privacy and civil liberties obligations - are understood and managed
+GV.OC-04|ID.BE-4|Critical objectives, capabilities, and services that stakeholders depend on or expect from the organization are understood and communicated
+GV.OC-04|ID.BE-5|Critical objectives, capabilities, and services that stakeholders depend on or expect from the organization are understood and communicated
+GV.OC-05|ID.BE-1|Outcomes, capabilities, and services that the organization depends on are understood and communicated
+GV.OC-05|ID.BE-4|Outcomes, capabilities, and services that the organization depends on are understood and communicated
+GV.PO-01|ID.GV-1|Policy for managing cybersecurity risks is established based on organizational context, cybersecurity strategy, and priorities and is communicated and enforced
+GV.PO-02|ID.GV-1|Policy for managing cybersecurity risks is reviewed, updated, communicated, and enforced to reflect changes in requirements, threats, technology, and organizational mission
+GV.RM-01|ID.RM-1|Risk management objectives are established and agreed to by organizational stakeholders
+GV.RM-02|ID.RM-2|Risk appetite and risk tolerance statements are established, communicated, and maintained
+GV.RM-02|ID.RM-3|Risk appetite and risk tolerance statements are established, communicated, and maintained
+GV.RM-03|ID.GV-4|Cybersecurity risk management activities and outcomes are included in enterprise risk management processes
+GV.RM-04|ID.RM-2|Strategic direction that describes appropriate risk response options is established and communicated
+GV.RM-05|ID.SC-1|Lines of communication across the organization are established for cybersecurity risks, including risks from suppliers and other third parties
+GV.RM-06|ID.RM-1|A standardized method for calculating, documenting, categorizing, and prioritizing cybersecurity risks is established and communicated
+GV.RR-02|ID.AM-6|Roles, responsibilities, and authorities related to cybersecurity risk management are established, communicated, understood, and enforced
+GV.RR-02|ID.GV-2|Roles, responsibilities, and authorities related to cybersecurity risk management are established, communicated, understood, and enforced
+GV.RR-02|DE.DP-1|Roles, responsibilities, and authorities related to cybersecurity risk management are established, communicated, understood, and enforced
+GV.RR-03|ID.RM-1|Adequate resources are allocated commensurate with the cybersecurity risk strategy, roles, responsibilities, and policies
+GV.RR-04|PR.IP-11|Cybersecurity is included in human resources practices
+GV.SC-01|ID.SC-1|A cybersecurity supply chain risk management program, strategy, objectives, policies, and processes are established and agreed to by organizational stakeholders
+GV.SC-02|ID.AM-6|Cybersecurity roles and responsibilities for suppliers, customers, and partners are established, communicated, and coordinated internally and externally
+GV.SC-03|ID.SC-2|Cybersecurity supply chain risk management is integrated into cybersecurity and enterprise risk management, risk assessment, and improvement processes
+GV.SC-04|ID.SC-2|Suppliers are known and prioritized by criticality
+GV.SC-05|ID.SC-3|Requirements to address cybersecurity risks in supply chains are established, prioritized, and integrated into contracts and other types of agreements with suppliers and other relevant third parties
+GV.SC-06|ID.SC-1|Planning and due diligence are performed to reduce risks before entering into formal supplier or other third-party relationships
+GV.SC-07|ID.SC-2|The risks posed by a supplier, their products and services, and other third parties are understood, recorded, prioritized, assessed, responded to, and monitored over the course of the relationship
+GV.SC-07|ID.SC-4|The risks posed by a supplier, their products and services, and other third parties are understood, recorded, prioritized, assessed, responded to, and monitored over the course of the relationship
+GV.SC-08|ID.SC-5|Relevant suppliers and other third parties are included in incident planning, response, and recovery activities
+GV.SC-09|ID.SC-1|Supply chain security practices are integrated into cybersecurity and enterprise risk management programs, and their performance is monitored throughout the technology product and service life cycle
+GV.SC-10|ID.SC-1|Cybersecurity supply chain risk management plans include provisions for activities that occur after the conclusion of a partnership or service agreement
+ID.AM-01|ID.AM-1|Inventories of hardware managed by the organization are maintained
+ID.AM-02|ID.AM-2|Inventories of software, services, and systems managed by the organization are maintained
+ID.AM-03|ID.AM-3|Representations of the organization's authorized network communication and internal and external network data flows are maintained
+ID.AM-03|DE.AE-1|Representations of the organization's authorized network communication and internal and external network data flows are maintained
+ID.AM-04|ID.AM-4|Inventories of services provided by suppliers are maintained
+ID.AM-05|ID.AM-5|Assets are prioritized based on classification, criticality, resources, and impact on the mission
+ID.AM-08|PR.DS-3|Systems, hardware, software, services, and data are managed throughout their life cycles
+ID.AM-08|PR.IP-2|Systems, hardware, software, services, and data are managed throughout their life cycles
+ID.AM-08|PR.MA-1|Systems, hardware, software, services, and data are managed throughout their life cycles
+ID.AM-08|PR.MA-2|Systems, hardware, software, services, and data are managed throughout their life cycles
+ID.AM-08|PR.IP-6|Systems, hardware, software, services, and data are managed throughout their life cycles
+ID.AM-08|PR.DS|Systems, hardware, software, services, and data are managed throughout their life cycles
+ID.IM-02|ID.SC-5|Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties
+ID.IM-02|PR.IP-10|Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties
+ID.IM-02|DE.DP-3|Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties
+ID.IM-03|PR.IP-7|Improvements are identified from execution of operational processes, procedures, and activities
+ID.IM-03|PR.IP-8|Improvements are identified from execution of operational processes, procedures, and activities
+ID.IM-03|DE.DP-5|Improvements are identified from execution of operational processes, procedures, and activities
+ID.IM-03|RS.IM-1|Improvements are identified from execution of operational processes, procedures, and activities
+ID.IM-03|RS.IM-2|Improvements are identified from execution of operational processes, procedures, and activities
+ID.IM-03|RC.IM-1|Improvements are identified from execution of operational processes, procedures, and activities
+ID.IM-03|RC.IM-2|Improvements are identified from execution of operational processes, procedures, and activities
+ID.IM-04|PR.IP-9|Incident response plans and other cybersecurity plans that affect operations are established, communicated, maintained, and improved
+ID.IM-04|RS.IM-1|Incident response plans and other cybersecurity plans that affect operations are established, communicated, maintained, and improved
+ID.IM-04|RC.IM-1|Incident response plans and other cybersecurity plans that affect operations are established, communicated, maintained, and improved
+ID.IM-04|PR.IP-10|Incident response plans and other cybersecurity plans that affect operations are established, communicated, maintained, and improved
+ID.RA-01|ID.RA-1|Vulnerabilities in assets are identified, validated, and recorded
+ID.RA-01|PR.IP-12|Vulnerabilities in assets are identified, validated, and recorded
+ID.RA-01|DE.CM-8|Vulnerabilities in assets are identified, validated, and recorded
+ID.RA-02|ID.RA-2|Cyber threat intelligence is received from information sharing forums and sources
+ID.RA-03|ID.RA-3|Internal and external threats to the organization are identified and recorded
+ID.RA-04|ID.RA-4|Potential impacts and likelihoods of threats exploiting vulnerabilities are identified and recorded
+ID.RA-05|ID.RA-5|Threats, vulnerabilities, likelihoods, and impacts are used to understand inherent risk and inform risk response prioritization
+ID.RA-06|ID.RA-6|Risk responses are chosen, prioritized, planned, tracked, and communicated
+ID.RA-06|RS.MI-3|Risk responses are chosen, prioritized, planned, tracked, and communicated
+ID.RA-07|PR.IP-3|Changes and exceptions are managed, assessed for risk impact, recorded, and tracked
+ID.RA-08|RS.AN-5|Processes for receiving, analyzing, and responding to vulnerability disclosures are established
+ID.RA-09|PR.DS-8|The authenticity and integrity of hardware and software are assessed prior to acquisition and use
+ID.RA-10|ID.SC-2|Critical suppliers are assessed prior to acquisition
+ID.RA-10|ID.SC-4|Critical suppliers are assessed prior to acquisition
+PR.AA-01|PR.AC-1|Identities and credentials for authorized users, services, and hardware are managed by the organization
+PR.AA-02|PR.AC-6|Identities are proofed and bound to credentials based on the context of interactions
+PR.AA-03|PR.AC-3|Users, services, and hardware are authenticated
+PR.AA-03|PR.AC-7|Users, services, and hardware are authenticated
+PR.AA-05|PR.AC-1|Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties
+PR.AA-05|PR.AC-3|Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties
+PR.AA-05|PR.AC-4|Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties
+PR.AA-06|PR.AC-2|Physical access to assets is managed, monitored, and enforced commensurate with risk
+PR.AA-06|PR.PT-4|Physical access to assets is managed, monitored, and enforced commensurate with risk
+PR.AT-01|PR.AT-1|Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind
+PR.AT-01|PR.AT-3|Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind
+PR.AT-01|RS.CO-1|Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind
+PR.AT-02|PR.AT-2|Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind
+PR.AT-02|PR.AT-3|Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind
+PR.AT-02|PR.AT-4|Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind
+PR.AT-02|PR.AT-5|Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind
+PR.DS-01|PR.DS-1|The confidentiality, integrity, and availability of data-at-rest are protected
+PR.DS-01|PR.DS-5|The confidentiality, integrity, and availability of data-at-rest are protected
+PR.DS-01|PR.DS-6|The confidentiality, integrity, and availability of data-at-rest are protected
+PR.DS-01|PR.PT-2|The confidentiality, integrity, and availability of data-at-rest are protected
+PR.DS-02|PR.DS-2|The confidentiality, integrity, and availability of data-in-transit are protected
+PR.DS-02|PR.DS-5|The confidentiality, integrity, and availability of data-in-transit are protected
+PR.DS-10|PR.DS-5|The confidentiality, integrity, and availability of data-in-use are protected
+PR.DS-11|PR.IP-4|Backups of data are created, protected, maintained, and tested
+PR.IR-01|PR.AC-3|Networks and environments are protected from unauthorized logical access and usage
+PR.IR-01|PR.AC-5|Networks and environments are protected from unauthorized logical access and usage
+PR.IR-01|PR.DS-7|Networks and environments are protected from unauthorized logical access and usage
+PR.IR-01|PR.PT-4|Networks and environments are protected from unauthorized logical access and usage
+PR.IR-02|PR.IP-5|The organization's technology assets are protected from environmental threats
+PR.IR-03|PR.PT-5|Mechanisms are implemented to achieve resilience requirements in normal and adverse situations
+PR.IR-04|PR.DS-4|Adequate resource capacity to ensure availability is maintained
+PR.PS-01|PR.IP-1|Configuration management practices are established and applied
+PR.PS-01|PR.IP-3|Configuration management practices are established and applied
+PR.PS-01|PR.PT-2|Configuration management practices are established and applied
+PR.PS-01|PR.PT-3|Configuration management practices are established and applied
+PR.PS-02|PR.IP-12|Software is maintained, replaced, and removed commensurate with risk
+PR.PS-02|PR.MA-2|Software is maintained, replaced, and removed commensurate with risk
+PR.PS-03|PR.MA-1|Hardware is maintained, replaced, and removed commensurate with risk
+PR.PS-03|PR.DS-3|Hardware is maintained, replaced, and removed commensurate with risk
+PR.PS-04|PR.PT-1|Log records are generated and made available for continuous monitoring
+PR.PS-06|PR.IP-2|Secure software development practices are integrated, and their performance is monitored throughout the software development life cycle
+RC.CO-03|RC.CO-3|Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders
+RC.CO-04|RC.CO-1|Public updates on incident recovery are shared using approved methods and messaging
+RC.CO-04|RS.CO-2|Public updates on incident recovery are shared using approved methods and messaging
+RC.RP-01|RC.RP-1|The recovery portion of the incident response plan is executed once initiated from the incident response process
+RC.RP-02|RC.RP-1|Recovery actions are selected, scoped, prioritized, and performed
+RS.AN-03|RS.AN-3|Analysis is performed to establish what has taken place during an incident and the root cause of the incident
+RS.AN-06|RS.AN-3|Actions performed during an investigation are recorded, and the records' integrity and provenance are preserved
+RS.CO-02|RS.CO-2|Internal and external stakeholders are notified of incidents
+RS.CO-02|RS.CO-3|Internal and external stakeholders are notified of incidents
+RS.CO-03|RS.CO-3|Information is shared with designated internal and external stakeholders
+RS.CO-03|RS.CO-5|Information is shared with designated internal and external stakeholders
+RS.MA-01|RS.RP-1|The incident response plan is executed in coordination with relevant third parties once an incident is declared
+RS.MA-01|RS.CO-4|The incident response plan is executed in coordination with relevant third parties once an incident is declared
+RS.MA-02|RS.AN-1|Incident reports are triaged and validated
+RS.MA-02|RS.AN-2|Incident reports are triaged and validated
+RS.MA-03|RS.AN-4|Incidents are categorized and prioritized
+RS.MA-03|RS.AN-2|Incidents are categorized and prioritized
+RS.MA-04|RS.AN-2|Incidents are escalated or elevated as needed
+RS.MA-04|RS.CO-4|Incidents are escalated or elevated as needed
+RS.MI-01|RS.MI-1|Incidents are contained
+RS.MI-02|RS.MI-2|Incidents are eradicated
