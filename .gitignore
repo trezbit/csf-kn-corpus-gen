@@ -29,4 +29,6 @@ corpus/assess/*.txt
 corpus/csf-core/*.txt
 corpus/map-v1.1/*.txt
 corpus/map-v2.0/*.txt
+corpus/assess/questions/*.json
+corpus/csf-core/keys/*.json
 
