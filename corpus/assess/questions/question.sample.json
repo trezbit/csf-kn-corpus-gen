@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "scope": "Detection Processes",
+      "question": "What process is in place for continuously monitoring your information systems for cybersecurity events and anomalies?",
+      "rationale": "This question evaluates the organization's approach and consistency in monitoring the security posture of their systems, an essential aspect for timely detection of potential security events."
+    },
+    {
+      "scope": "Detection Processes",
+      "question": "Describe how updates and changes are managed in your detection tools and systems?",
+      "rationale": "Understanding how updates and changes are managed is critical to ensuring that detection tools and systems remain effective against evolving threats."
+    },
+    {
+      "scope": "Detection Coverage",
+      "question": "How do you ensure that your detection mechanisms cover all critical systems and assets?",
+      "rationale": "This assesses the comprehensiveness of the detection mechanisms in place, ensuring no critical assets or systems are left without surveillance."
+    },
+    {
+      "scope": "Detection Coverage",
+      "question": "Can you share how detection performance and coverage are tested and validated?",
+      "rationale": "Testing and validation of detection performance and coverage are necessary to ensure that the mechanisms in place are functioning as intended."
+    },
+    {
+      "scope": "Detection Policies and Procedures",
+      "question": "Is there a formal policy defining the detection of cybersecurity events and anomalies, and how frequently is it reviewed?",
+      "rationale": "A formal policy provides a basis for consistent detection practices, and regular reviews ensure it remains relevant with the changing threat landscape."
+    },
+    {
+      "scope": "Detection Policies and Procedures",
+      "question": "What training and awareness activities are conducted to ensure that all relevant personnel are familiar with the detection policies and procedures?",
+      "rationale": "Effective detection requires that all personnel involved are aware of their roles and the policies guiding detection processes."
+    },
+    {
+      "scope": "Alerting and Reporting",
+      "question": "How does your organization handle alerts from detection systems, and who is responsible for responding?",
+      "rationale": "This question illuminates the response chain and accountability within the organization for acting upon detection system alerts."
+    },
+    {
+      "scope": "Alerting and Reporting",
+      "question": "What reporting mechanisms are in place for documenting and analyzing detected events?",
+      "rationale": "Reporting mechanisms are essential for the analysis and documentation of events, which support both immediate response and long-term security posture improvements."
+    },
+    {
+      "scope": "Technological Integration",
+      "question": "Describe how detection technologies integrate with other security and information management tools within the organization.",
+      "rationale": "Effective detection often involves integration with other tools and systems for comprehensive monitoring, analysis, and response."
+    },
+    {
+      "scope": "Technological Integration",
+      "question": "How are emerging detection technologies and methods evaluated and potentially integrated into your security operations?",
+      "rationale": "This question assesses the organization's approach to keeping its detection capabilities up to date with emerging technologies and threats."
+    }
+  ]
+}

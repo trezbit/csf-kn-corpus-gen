@@ -69,11 +69,15 @@ func main() {
 	var inpath string
 	var outpath string
 
-	if qtype == "assess" {
+	if qtype == "assess" || qtype == "assessq" {
 		fmt.Println(viper.Get("INPATH_QUERY_ASSESS"))
 		inpath = viper.Get("INPATH_QUERY_ASSESS").(string)
 		outpath = viper.Get("OUTPATH_ASSESS").(string)
 	} else if qtype == "csf" {
+		fmt.Println(viper.Get("INPATH_QUERY_CSF"))
+		inpath = viper.Get("INPATH_QUERY_CSF").(string)
+		outpath = viper.Get("OUTPATH_CSF").(string)
+	} else if qtype == "csfkey" {
 		fmt.Println(viper.Get("INPATH_QUERY_CSF"))
 		inpath = viper.Get("INPATH_QUERY_CSF").(string)
 		outpath = viper.Get("OUTPATH_CSF").(string)
